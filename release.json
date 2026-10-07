@@ -1,7 +1,7 @@
 {
-  "version": "0.1.0-pages.1",
+  "version": "0.1.0-pages.2",
   "productVersion": "0.1.0",
-  "sourceCommit": "50e627ad8ea9742c216966356241d9e81610cf31",
+  "sourceCommit": "3c9f8bfd4abd0cf4a7bdbd46d95fa6116cf49247",
   "previousCheckpoint": "f056fd954263ee3b28b0e9d303257f6caef4e707",
   "editor": "Unity 6000.3.23f1",
   "onlineStatus": "Internet co-op pending Unity Cloud / Relay setup",
@@ -18,8 +18,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 2829,
-      "sha256": "8a48e12f9fd2ca8478ce5b3f26d6053e38154d998b57c10e31e0551ba8dcac06"
+      "bytes": 3119,
+      "sha256": "4d9c3154b88cdfff6426287bc68251835fee8e15d41010a50a521739ec83567f"
     },
     {
       "path": "README.md",
